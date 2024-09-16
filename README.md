@@ -38,4 +38,15 @@ The **CatPhotoApp** demonstrates the basics of HTML5 and CSS3, while focusing on
    git clone https://github.com/your-username/catphotoapp.git
 2. Open the index.html file in a web browser to view the project.
 
-   
+## Learning Objectives
+
+This project helps learners:
+- Understand the importance of semantic HTML.
+- Create forms with various input types (radio buttons, checkboxes, text inputs).
+- Build structured lists and figures.
+- Use accessible features like `alt` text for images and properly labeled form elements.
+
+    ## FreeCodeCamp Curriculum
+
+    This project is a part of the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on FreeCodeCamp.
+
