@@ -36,3 +36,6 @@ The **CatPhotoApp** demonstrates the basics of HTML5 and CSS3, while focusing on
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/catphotoapp.git
+2. Open the index.html file in a web browser to view the project.
+
+   
