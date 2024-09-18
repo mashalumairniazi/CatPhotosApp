@@ -5,7 +5,7 @@ The project showcases fundamental HTML by building a simple web page for a ficti
 
 ## Project Overview
 
-The **CatPhotoApp** demonstrates the basics of HTML5 and CSS3, while focusing on responsive design principles. The project includes images, links, forms, and lists, all structured semantically to create a user-friendly experience.
+The **CatPhotoApp** demonstrates the basics of HTML5, while focusing on responsive design principles. The project includes images, links, forms, and lists, all structured semantically to create a user-friendly experience.
 
 ### Key Features
 
