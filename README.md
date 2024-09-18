@@ -1,6 +1,7 @@
 # Project 1: CatPhotoApp - Responsive Web Design (FCC)
+##### This repository contains the completed code for the first project in the FreeCodeCamp "Responsive Web Design" course. 
 
-This repository contains the completed code for the first project in the FreeCodeCamp "Responsive Web Design" course. The project showcases fundamental HTML and basic CSS principles by building a simple web page for a fictional cat photo application.
+The project showcases fundamental HTML by building a simple web page for a fictional cat photo application.
 
 ## Project Overview
 
