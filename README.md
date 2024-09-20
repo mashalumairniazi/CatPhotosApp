@@ -48,5 +48,5 @@ This project helps learners:
 - Use accessible features like `alt` text for images and properly labeled form elements.
 
 # FreeCodeCamp Curriculum
-  This project is a part of the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on FreeCodeCamp.
+  This project is a part of the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp.
 
